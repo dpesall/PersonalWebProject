@@ -1,0 +1,140 @@
+.title {
+	color: White;
+	text-align: center;
+	font-size: 72px;
+	background-image: url("https://i.imgur.com/kubelOX.jpg");
+	text-shadow: 4px 4px Black;
+	margin-left: 200px;
+	margin-right: 200px;
+	border-radius: 50px;
+}
+
+body {
+	background-image: url("https://i.imgur.com/4F2YtdH.jpg");
+}
+
+.mainbio {
+	color: White;
+	text-align: left;
+	font-size: 24px;
+	background-image: url("https://i.imgur.com/kubelOX.jpg");
+	margin-left: 700px;
+	margin-right: 300px;
+	border-radius: 50px;
+	padding-top: 20px;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-bottom: 20px;
+	font-family: "Arial", Arial, Sans-serif;
+}
+
+.personalstats {
+	color: White;
+	text-align: left;
+	font-size: 24px;
+	background-image: url("https://i.imgur.com/kubelOX.jpg");
+	margin-left: 700px;
+	margin-right: 300px;
+	border-radius: 50px;
+	padding-top: 20px;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-bottom: 20px;
+	font-family: "Arial", Arial, Sans-serif;
+}
+
+.biopic {
+	float: left;
+	margin-left: 200px;
+}
+
+.contactBody {
+	color: White;
+	text-align: center;
+	font-size: 48px;
+	background-image: url("https://i.imgur.com/kubelOX.jpg");
+	margin-left: 200px;
+	margin-right: 200px;
+	border-radius: 50px;
+	font-family: "Arial", Arial, Sans-serif;
+}
+
+.tutoringBio {
+	color: White;
+	text-align: center;
+	font-size: 32px;
+	background-image: url("https://i.imgur.com/kubelOX.jpg");
+	margin-left: 100px;
+	margin-right: 100px;
+	border-radius: 50px;
+	font-family: "Arial", Arial, Sans-serif;
+}
+
+.subjli {
+	text-align: left;
+	margin-left: 118px;
+}
+
+.varies {
+	font-size: 16px;
+	margin-left: 30px;
+}
+
+.dates {
+	text-align: left;
+	margin-left: 500px;
+}
+
+.chegg {
+	color: White;
+	text-align: center;
+	font-size: 32px;
+	background-image: url("https://i.imgur.com/kubelOX.jpg");
+	margin-left: 100px;
+	margin-right: 100px;
+	border-radius: 50px;
+	font-family: "Arial", Arial, Sans-serif;
+}
+
+.navbar {
+	border: 2px solid Black;
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #272727;
+}
+
+.getTutored {
+	color: White;
+	text-align: center;
+	font-size: 32px;
+	background-image: url("https://i.imgur.com/kubelOX.jpg");
+	margin-left: 100px;
+	margin-right: 100px;
+	border-radius: 50px;
+	font-family: "Arial", Arial, Sans-serif;
+}
+
+
+.navli {
+	 float: left;
+}
+
+li a:hover {
+    background-color: #4d4d4d;
+}
+
+li a {
+	font-size: 20px;
+	display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    border-right: 2px solid Black;
+}
+
+ul {
+	list-style-type: none;
+}
