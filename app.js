@@ -3,8 +3,8 @@ var canvas;
 var canvasContext;
 var ballX = 400;
 var ballY = 100;
-var ballSpeedX = 5;
-var ballSpeedY = 4;
+var ballSpeedX = 10;
+var ballSpeedY = 5;
 
 var paddleLeftY = 250;
 var paddleRightY = 250;
