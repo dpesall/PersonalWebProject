@@ -94,7 +94,7 @@ function moveEverything() {
 		}
 	}
 	if(ballX <= 25) {
-		if(ballY > paddleLeftY && ballY < paddleLeftY + PADDLE_HEIGHT) {
+		if(ballY + 5 > paddleLeftY && ballY < paddleLeftY + PADDLE_HEIGHT + 5) {
 			ballSpeedX *= -1;
 			
 			var deltaY = ballY - (paddleLeftY + PADDLE_HEIGHT / 2);
