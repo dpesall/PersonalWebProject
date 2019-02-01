@@ -133,6 +133,13 @@ img.drewpic {
 	font-family: "Arial", Arial, Sans-serif;
 }
 
+.pongplay {
+	color: White;
+	text-align: center;
+	font-size: 48px;
+	font-family: "Arial", Arial, Sans-serif;
+}
+
 .navbar {
 	border: 2px solid Black;
 	list-style-type: none;
